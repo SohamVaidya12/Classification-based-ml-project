@@ -72,11 +72,12 @@ This project implements an **Offline Signature Verification System** using Artif
   
 </div>
 
+
+
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
   <img src="graph.png" width="50%" style="object-fit: contain;">
  
-Screenshot 2024-12-21 113533.png
 </div>
 
 ---
