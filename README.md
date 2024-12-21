@@ -63,7 +63,16 @@ This project implements an **Offline Signature Verification System** using Artif
 - Gabor filters effectively extracted directional features relevant for signature verification.
 - PCA significantly reduced computation time while preserving essential feature information.
 - Normalized angle plots showed a clear distinction between genuine and forged signature
-  
+
+### Visual Analysis
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+
+  <img src="analysis2.png" width="50%" style="object-fit: contain;">
+ 
+
+</div>
+
+---
 
 ---
 ## **Conclusion**
